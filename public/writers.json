@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Rabindranath",
+        "country": "Bangladesh",
+        "category": "writer",
+        "salary": 12000,
+        "born": 1861,
+        "img": "https://images.moneycontrol.com/static-mcnews/2021/05/Rabindranath-Tagore-1-770x433.jpg?impolicy=website&width=770&height=431"
+    },
+    {
+        "id": 2,
+        "name": "Kazi Nazrul",
+        "country": "Bangladesh",
+        "category": "poet",
+        "salary": 10000,
+        "born": 1899,
+        "img": "https://m.media-amazon.com/images/M/MV5BNDE3YjUwYWMtNWY5My00N2MwLWE2ODMtMGFkZDE1ZDJhOTY0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jibananda",
+        "country": "Bangladesh",
+        "category": "poet",
+        "salary": 8000,
+        "born": 1961,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Jibanananda_Das_%281899%E2%80%931954%29.jpg/220px-Jibanananda_Das_%281899%E2%80%931954%29.jpg"
+    }
+]
