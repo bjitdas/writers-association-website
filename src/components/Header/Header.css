@@ -1,0 +1,15 @@
+.header{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 15px;   
+}
+
+.header-detail{
+    color: rgb(236, 232, 1);
+    background-image: linear-gradient(rgb(216, 47, 98), rgb(214, 88, 50));
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 25px;
+}

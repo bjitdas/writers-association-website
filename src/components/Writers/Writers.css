@@ -1,0 +1,24 @@
+.all-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.writer-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+    margin: 5px;
+    margin-left: 20px;
+}
+
+.cart-container-detail{
+    width: 90%;
+    margin-left: 15px;
+    margin-top: 20px;
+    padding: 20px;
+    color: rgb(250, 244, 244);
+    font-size: 22px;
+    font-weight: 600;
+    background-image: linear-gradient(rgb(228, 11, 58), rgb(29, 11, 194));
+    border-radius: 10%;
+    position: relative;
+}

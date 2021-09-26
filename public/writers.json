@@ -1,29 +1,110 @@
 [
     {
-        "id": 1,
+        "id": "1A",
         "name": "Rabindranath",
         "country": "Bangladesh",
-        "category": "writer",
+        "job": "writer",
         "salary": 12000,
         "born": 1861,
         "img": "https://images.moneycontrol.com/static-mcnews/2021/05/Rabindranath-Tagore-1-770x433.jpg?impolicy=website&width=770&height=431"
     },
     {
-        "id": 2,
+        "id": "B2",
         "name": "Kazi Nazrul",
         "country": "Bangladesh",
-        "category": "poet",
+        "job": "poet",
         "salary": 10000,
         "born": 1899,
         "img": "https://m.media-amazon.com/images/M/MV5BNDE3YjUwYWMtNWY5My00N2MwLWE2ODMtMGFkZDE1ZDJhOTY0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg"
     },
     {
-        "id": 3,
-        "name": "Jibananda",
+        "id": "c3",
+        "name": "Jibanananda",
         "country": "Bangladesh",
-        "category": "poet",
+        "job": "poet",
         "salary": 8000,
         "born": 1961,
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Jibanananda_Das_%281899%E2%80%931954%29.jpg/220px-Jibanananda_Das_%281899%E2%80%931954%29.jpg"
+    },
+    {
+        "id": "4D",
+        "name": "Shakespeare",
+        "country": "UK",
+        "job": "Dramatist",
+        "salary": 15000,
+        "born": 1564,
+        "img": "https://cdn.britannica.com/s:740x416,c:crop/10/93010-050-0E665526/Portrait-William-Shakespeare.jpg"
+    },
+    {
+        "id": "5D",
+        "name": "Zahir Raihan",
+        "country": "BD",
+        "job": "Filmmaker",
+        "salary": 10000,
+        "born": 1935,
+        "img": "https://m.media-amazon.com/images/M/MV5BMWJjNzUwNDEtMjU2ZS00ZDgzLWI5YTAtNjVlNTI0NDdiY2Q0XkEyXkFqcGdeQXVyNDI3NjcxMDA@._V1_UY1200_CR129,0,630,1200_AL_.jpg"
+    },
+    {
+        "id": "6F",
+        "name": "John Milton",
+        "country": "UK",
+        "job": "Poet",
+        "salary": 17000,
+        "born": 1608,
+        "img": "https://www.thoughtco.com/thmb/Y-ZB6WUrx0NYbt4QALccSYRcEWI=/2722x2722/smart/filters:no_upscale()/GettyImages-181962584-5989358656494870bcfcfc092c011e76.jpg"
+    },
+    {
+        "id": "7g",
+        "name": "Socrates",
+        "country": "Greece",
+        "job": "Philosopher",
+        "salary": 16000,
+        "born": "470BC",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIqoBgKAqm4eu_o3OMlRwmX3euFiPLInNp2un52oz-N36FPz4FBsbKk6REDOtEt215iSI&usqp=CAU"
+    },
+    {
+        "id": "8H",
+        "name": "Einstein",
+        "country": "Germany",
+        "job": "Scientist",
+        "salary": 19000,
+        "born": 1879,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIyLOZBiRQy2bnDOObHOwgHaHuSE6PU9h-w52xj5qGm-NMRGL0X1oxDSB6D67rNSiZdw&usqp=CAU"
+    },
+    {
+        "id": "9F",
+        "name": "Newton",
+        "country": "UK",
+        "job": "Scientist",
+        "salary": 14000,
+        "born": 1643,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIqoBgKAqm4eu_o3OMlRwmX3euFiPLInNp2un52oz-N36FPz4FBsbKk6REDOtEt215iSI&usqp=CAU"
+    },
+    {
+        "id": "10J",
+        "name": "Pritilata",
+        "country": "Bangladesh",
+        "job": "Soldier",
+        "salary": 13000,
+        "born": 1911,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Original_Archived_photo_of_Pritilata_Waddedar.jpg"
+    },
+    {
+        "id": "11l",
+        "name": "Marie Curie",
+        "country": "Poland",
+        "job": "Scientist",
+        "salary": 11000,
+        "born": 1867,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv-0X7Dd5bIh_1re3tUty08k6lIMne-aRvaTsNcZUCdw44XZ_EkqpnFtHwn_4IRepZaPc&usqp=CAU"
+    },
+    {
+        "id": "12K",
+        "name": "Brendan Eich",
+        "country": "USA",
+        "job": "Programmer",
+        "salary": 21000,
+        "born": 1961,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQilRfRF6QkRqZSPzn0FKUEqOlnbvVl0enttIHYgmjpcwz153c3qKZpe6w2n7gTFUBf2eQ&usqp=CAU"
     }
 ]
