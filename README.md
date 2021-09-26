@@ -7,4 +7,4 @@ This project was bootstrapped with [Create a Author Association](https://amazing
 
 •• Arrange a Author Association with renowned persons 
 
-•• You can hire them from here at the very low cost
+•• You can hire them from here at the very low cost..
